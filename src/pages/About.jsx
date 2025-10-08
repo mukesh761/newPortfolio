@@ -40,10 +40,10 @@ const About = () => {
                 <p className='mt-6 sm:mt-8 text-base sm:text-lg leading-relaxed break-words'>
                     I'm a passionate full-stack developer specializing in **React.js & Node.js**. I thrive on blending technical expertise with sleek UI/UX design to build high-performing, user-friendly applications.</p>
                 <p className='mt-6 sm:mt-8 text-base sm:text-lg leading-relaxed break-words'>
-                    My web development journey started in **2015**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **Next.js, TypeScript, NestJS, TailwindCSS, Supabase, and more**.
+                    My web development journey started in **2024**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **React.js, javaScript, TailwindCSS, nodeJs,  and more**.
                 </p>
                 <p className='mt-6 sm:mt-8 text-base sm:text-lg leading-relaxed break-words '>
-                    Beyond coding, I enjoy sharing insights on **Twitter**, engaging with **Indie Hackers**, and following the journey of **early-stage startups**. Feel free to follow me on **Twitter** or check out my projects on **GitHub**.
+                    Beyond coding, I enjoy sharing insights on **Instagram**, engaging with **Indie Hackers**, and following the journey of **early-stage startups**. Feel free to follow me on **instagram** check out my projects on **GitHub**.
                 </p>
             </div>
                 </motion.div>
