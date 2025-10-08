@@ -30,7 +30,7 @@ const Projects = () => {
                     transition={{duration:0.5}}
                     >
                         <div>
-                            <img src={project1} alt="" className='w-full h-auto hover:scale-110' />
+                            <img src={project1} alt="" className='w-full h-auto ' />
                         </div>
                     </motion.div>
                     <div className="right w-full lg:w-1/2 mt-6 lg:mt-0">
